@@ -1,2 +1,3 @@
 mi persaonaje sera un gato gordo con abanico 
-es muy flojo el gato
+es muy flojo el gato, 
+color de pelaje = naranja
