@@ -1,1 +1,2 @@
-el gato no ataca
+ataques :
+    panzaso mortal
