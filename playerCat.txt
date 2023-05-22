@@ -1,0 +1,3 @@
+Player = cat
+    status = feliz
+    anchura = muy gordo
